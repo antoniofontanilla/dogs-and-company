@@ -1,0 +1,6 @@
+{
+  "name": "Dogs & Company",
+  "description": "Peluquería canina y boutique para mascotas: estética, baños relajantes, higiene y cuidados profesionales con el mayor cariño.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
